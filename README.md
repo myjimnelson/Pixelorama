@@ -1,3 +1,15 @@
+# About the myjimnelson fork
+
+This fork is for me to investigate the feasibility of using this pixel editor
+to edit Civ III FLC files.
+
+The early idea before I've ever opened Pixelorama:
+
+- 160-color palette for persistent colors
+- Additional selectable but non-editable palettes for civ colors, smoke, shadow, and transparency
+- Input and output would either be Flic files or indexed PCX files
+---
+
 <p align="center">
     <h1 align = "center">Pixelorama - your free and open-source sprite editor!</h1>
 </p>
